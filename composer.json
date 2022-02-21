@@ -7,5 +7,7 @@
             "Kobens\\Taxes\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
