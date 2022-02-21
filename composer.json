@@ -1,0 +1,11 @@
+{
+    "name": "kobens/kobens-taxes",
+    "description": "Taxes Stuff",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kobens\\Taxes\\": "src/"
+        }
+    },
+    "require": {}
+}
